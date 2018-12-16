@@ -1,4 +1,4 @@
-# Project Title
+# IP Generator
 
 Generate Ips for a given subnet and list the pingable ips with RTT
 
@@ -14,7 +14,7 @@ pip3 install netaddr
 ```
  
 
-### Installing
+### How to Run
 
 
 ```
