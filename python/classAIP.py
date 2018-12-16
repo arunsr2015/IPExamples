@@ -34,10 +34,10 @@ import subprocess
 
 #Program was tested with this setting
 #[default]
-#network=10.148.144.0/22
-#prefix=26
-#subnet_count=16
-#threads=8
+#network=74.125.194.0/22
+#prefix=24
+#subnet_count=4
+#threads=4
 
 #The outfile ares in git classAIP.txt and classAip_pingable.txt
 
