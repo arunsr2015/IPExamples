@@ -7,6 +7,8 @@ Generate Ips for a given subnet and list the pingable ips with RTT
 ### Prerequisites
 ```
 Install pip3
+apt-get install python-pip3
+apt-get install fping
 pip3 install netaddr
 
 ```
